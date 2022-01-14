@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-😄 Pronouns: He/Him
-🌱 I’m currently learning the beginnings of coding
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esin87&layout=compact)](https://github.com/dcberkshire/github-readme-stats)
 💬 Ask me about anything!
 
